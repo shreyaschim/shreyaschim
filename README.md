@@ -1,4 +1,4 @@
-### Hi there, I'm [Shreyas Rajendra Chim]! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+## Hi there, I'm [Shreyas Rajendra Chim](https://www.linkedin.com/in/shreyas-rajendra-chim)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
 <p align="center">
       <a href="https://www.kaggle.com/shreyaschim">
