@@ -114,7 +114,9 @@
   </a>
 </p>
 -->
-## Connect me on:
+
+# Connect me on:
+
 LinkedIn: https://www.linkedin.com/in/shreyas-rajendra-chim
 
 Kaggle: https://www.kaggle.com/shreyaschim
