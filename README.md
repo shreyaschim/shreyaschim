@@ -8,7 +8,7 @@
         <img align="center" alt="Shreyas LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/shreyaschim">
-        <img align="center" alt="Shreyas Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+        <img align="center" alt="Shreyas Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
  	</p>
       
