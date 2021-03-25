@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm [Shreyas Rajendra Chim]! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+
+<p align="center">
+      <a href="https://kaggle.com/mandarkulkarnipune">
+        <img align="center" alt="Mandar's kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/shreyas-rajendra-chim">
+        <img align="center" alt="Shreyas LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/shreyaschim">
+        <img align="center" alt="Shreyas Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+      </a>
+ 	</p>
 
 <!--
 **shreyaschim/shreyaschim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
