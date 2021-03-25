@@ -16,7 +16,7 @@
 
 <p>
   <em>
-    I'm a <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> <b>Machine Learning Engineer</b> and a <b> Deep reinforcement learning enthusiast </b>, knowledgeable in various avenues of computer engineering. Skilled to build AI product code and innovative software solutions.Experienced in building NLP, Deep Learning and Computer Vision based ML driven products form POC's to end production, for AI powered business solutions by leveraging serverless architecture and cloud computing platforms (Microsoft Azure, AWS, GCP, etc).
+    I'm a <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> <b>Machine Learning Engineer</b> and a <b> Deep reinforcement learning enthusiast </b>, knowledgeable in various avenues of computer engineering. Skilled to build AI product code and innovative software solutions.Experienced in building NLP, Deep Learning and Computer Vision based ML driven products form POC to end production, for AI powered business solutions by leveraging serverless architecture and cloud computing platforms (Microsoft Azure, AWS, GCP, etc).
   </em>
  </p>
 
