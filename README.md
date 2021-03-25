@@ -30,7 +30,6 @@
 - 🔭 I’m currently working on Computer vision, OCR, NLP, Deep Learning based ML models for Object detection, Activity recognation on CCTV footage,Information extraction form document images/form recognation, document classification, stock price prediction etc.  
 - 💼 I have completed Master's degree in Computer Engineering from Pune Institute of Computer Technology, Pune in 2019 and Bachlore's degree in Information Technology from Dr.Rajendra Gode Institute of Technology & Research, Amravati in 2017.
 - 💻 Always open for an new opportunity in the field of AI/Machine Learning/Data Science/ domain.
-- 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
 - 💬 Ask me anything related to ML driven models, ready to collaborate for projects.
 - 📌 Scroll down to see my Pinned Repositories.
 - 📫 Please email via shreyas4329ay@gmail.com to reach me;
@@ -54,7 +53,7 @@
 
 <p align="center">
   <a href = "https://github.com/mandar196">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=mandar196&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shreyaschim&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
@@ -62,10 +61,10 @@
 
 <p align="center">
 <a href = "https://github.com/mandar196">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=mandar196&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shreyaschim&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
-
+<!--
 ### Top repositories
 
 
@@ -111,7 +110,7 @@
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Recruitment-prediction-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
 </p>
-
+-->
 # 📫 Connect me on:
 LinkedIn: https://www.linkedin.com/in/shreyas-rajendra-chim
 
