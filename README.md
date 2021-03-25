@@ -16,7 +16,7 @@
 
 <p>
   <em>
-    I'm a <b>Machine Learning Engineer</b> and a deep renforcement learning enthu<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in this domain.
+    I'm a <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> <b>Machine Learning Engineer</b> and a <b> Deep reinforcement learning enthusiast </b>, knowledgeable in various avenues of computer engineering. Skilled to build AI product code and innovative software solutions. .
   </em>
  </p>
 
