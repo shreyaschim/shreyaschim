@@ -5,7 +5,7 @@
         <img align="center" alt="Shreyas kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/shreyas-rajendra-chim">
-        <img align="center" alt="Shreyas LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+        <img align="center" alt="Shreyas LinkedIn profile" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/shreyaschim">
         <img align="center" alt="Shreyas Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
