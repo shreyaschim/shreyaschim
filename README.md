@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Hi there, I'm [Mandar kulkarni](https://kulkarnimandar96.wixsite.com/mandar)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
-<h3>Check out my portfolio: <a href="https://kulkarnimandar96.wixsite.com/mandar"</a> click here</h3>
+<!--<h3>Check out my portfolio: <a href="https://kulkarnimandar96.wixsite.com/mandar"</a> click here</h3>
 
 
 <p align="center">
@@ -135,4 +135,4 @@ Kaggle: https://www.kaggle.com/mandarkulkarnipune
 
 Medium: https://rb.gy/mm6ps8
 
-## Note: Please do not spam on the above mentioned profiles.
+## Note: Please do not spam on the above mentioned profiles. -->
