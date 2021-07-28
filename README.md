@@ -29,8 +29,7 @@
 - 👨🏽‍💻 I’m currently working as **Machine Learning Engineer** at **Scalable Solutions, Pune**.
 - 🔭 Worked on Computer vision, OCR, NLP, Deep Learning based ML models for Object detection, Activity recognation on CCTV footage,Information extraction form document images/form recognation, document classification, stock price prediction etc.  
 - 💼 I have completed Master's degree in Computer Engineering from Pune Institute of Computer Technology, Pune in 2019 and Bachlore's degree in Information Technology from Dr.Rajendra Gode Institute of Technology & Research, Amravati in 2017.
-- 💻 Always open for an new opportunity in the field of AI/Machine Learning/Data Science domain.
-- 💬 Ask me anything related to ML driven models, ready to collaborate for projects.
+- 💬 Ready to collaborate for projects.
 - 📌 Scroll down to see my Pinned Repositories.
 - 📫 Please email via shreyas4329ay@gmail.com to reach me;
 <br/> 
