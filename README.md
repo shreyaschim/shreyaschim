@@ -1,261 +1,164 @@
-## Hi there, I'm [Shreyas Rajendra Chim](https://www.linkedin.com/in/shreyas-rajendra-chim)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+
+## Hi there, I'm [Shreyas Rajendra Chim](https://www.linkedin.com/in/shreyas-rajendra-chim)! 👋 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyaschim&style=flat-square&color=blue"> </p>
+
+### 🧠 Senior AI Engineer | Generative AI | LLM Systems | AI Platform Engineering | Cloud AI Architecture
+<img align="right" alt="coding" width="520" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+
+AI Engineer with **7+ years of experience designing and building production-grade AI systems** across:
+
+- Generative AI
+- Natural Language Processing
+- Computer Vision
+- Enterprise AI platforms
+- Cloud-native ML infrastructure
+
+Currently based in **Dubai, UAE**, building **enterprise AI platforms and intelligent automation systems** in **secure and compliance-regulated environments such as banking and financial services**.
+
+🚀 Passionate about building **scalable AI platforms, microservice-based ML systems, and enterprise AI architectures** while leveraging **AI-augmented engineering using Claude Code, Copilot, Codex and modern LLM workflows.**
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
-      <a href="https://www.kaggle.com/shreyaschim">
-        <img align="center" alt="Shreyas kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/shreyas-rajendra-chim">
-        <img align="center" alt="Shreyas LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/shreyaschim">
-        <img align="center" alt="Shreyas Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
- 	</p>
-      
-![Profile Views](https://komarev.com/ghpvc/?username=shreyaschim&style=flat-square)
 
-<p>
-  <em>
-    I'm a <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> <b>Machine Learning Engineer</b> and a <b> Deep reinforcement learning enthusiast </b>, knowledgeable in various avenues of computer engineering. Skilled to build AI product code and innovative software solutions.Experienced in building NLP, Deep Learning and Computer Vision based ML driven products form POC to end production, for AI powered business solutions by leveraging serverless architecture and cloud computing platforms (Microsoft Azure, AWS, GCP, etc).
-  </em>
- </p>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<em>
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working as **Machine Learning Engineer** at [**Scalable Solutions**](https://www.scalablesolutions.co).
-- 🔭 Worked on Computer vision, OCR, NLP, Deep Learning based ML models for Object detection, Activity recognation on CCTV footage,Information extraction form document images/form recognation, document classification, stock price prediction etc.  
-- 💼 I have completed Master's degree in Computer Engineering from Pune Institute of Computer Technology, Pune in 2019 and Bachlore's degree in Information Technology from Dr.Rajendra Gode Institute of Technology & Research, Amravati in 2017.
-- 💬 Ready to collaborate for projects.
-- 📌 Scroll down to see my Pinned Repositories.
-- 📫 Please email via shreyas4329ay@gmail.com to reach me;
-<br/> 
-</em>
-
-### Worked with 
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" title="TensorFlow"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" title="ubuntu"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="Flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" title="Django"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="css"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" title="Azure"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" title="AWS"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-
-
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/shreyaschim">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=shreyaschim&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/mandar196">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shreyaschim&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+<a href="https://www.linkedin.com/in/shreyas-rajendra-chim">
+<img src="https://img.shields.io/badge/LinkedIn-Shreyas%20Chim-blue?style=for-the-badge&logo=linkedin">
 </a>
-</p>
-<!--
-### Top repositories
 
-
-<p align="center">
-  <a href = "https://github.com/mandar196/Hate_Speech_Detection-NLP">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Hate_Speech_Detection-NLP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mandar196/MedTest">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=MedTest&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-  </p>
-
-<p align="center">
-  <a href="https://github.com/mandar196/Handwritten_Digits_Classifier_CNN">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Handwritten_Digits_Classifier_CNN&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-  </p>
-  
- <p align="center">
-  <a href = "https://github.com/mandar196/Face_Recognition_Attendance_System">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Face_Recognition_Attendance_System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href = "https://github.com/mandar196/Fake_News_Classifier_NLP">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Fake_News_Classifier_NLP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
-
-<p align="center">
-  <a href = "https://github.com/mandar196/Employee_Attrition-HR-Analytics">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Employee_Attrition-HR-Analytics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
-
-<p align="center">
-  <a href = "https://github.com/mandar196/Recruitment-prediction-system">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Recruitment-prediction-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
--->
-
-# Connect me on:
-
-LinkedIn: https://www.linkedin.com/in/shreyas-rajendra-chim
-
-Kaggle: https://www.kaggle.com/shreyaschim
-
-Skype: https://join.skype.com/invite/XbjWG1JEkS6R
-
-## Note: Please do not spam on the above mentioned profiles.
-<!--
-**shreyaschim/shreyaschim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-- 🔭 I’m currently working on OCR NLP, Deep Learning, Image Processing etc.  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-## Hi there, I'm [Mandar kulkarni](https://kulkarnimandar96.wixsite.com/mandar)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
-
-<!--<h3>Check out my portfolio: <a href="https://kulkarnimandar96.wixsite.com/mandar"</a> click here</h3>
-
-
-<p align="center">
-      <a href="https://kaggle.com/mandarkulkarnipune">
-        <img align="center" alt="Mandar's kaggle profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kaggle.svg" />
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/mandar-kulkarni196">
-        <img align="center" alt="Mandar's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/mandar196">
-        <img align="center" alt="Smit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-      </a>
- 	</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mandar196&style=flat-square)
-
-<p>
-  <em>
-    I'm a <b>Data science enthusiast</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and very passionate to work in this domain.
-  </em>
- </p>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<em>
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working as AL/ML Intern at Tata Motors.
-- 💼 I'm currently pursuing Master of computer Applications (Final Year) from Vishwakarma Institute of technology.
-- 💻 I'm looking for an full time opportunity in Data Science/Data Analyst/Machine Learning domain.
-- 🖋️ I'm actively participating in Data science competitions on kaggle,Analytics Vidhya.
-- 💬 Ask me anything related to Data science domain, ready to collaborate for projects.
-- 📌 Scroll down to see my Pinned Repositories.
-- 📫 Please email via kulkarnimandar96@gmail.com to reach me;
-<br/> 
-</em>
-
-### Worked with 
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" title="java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
-
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/mandar196">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=mandar196&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/mandar196">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=mandar196&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+<a href="https://github.com/shreyaschim">
+<img src="https://img.shields.io/badge/GitHub-shreyaschim-black?style=for-the-badge&logo=github">
 </a>
+
+<a href="https://www.kaggle.com/shreyaschim">
+<img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle">
+</a>
+
 </p>
 
-### Top repositories
+---
 
+# 🚀 AI Systems & Platforms I Build
+
+I specialize in designing **enterprise-grade AI systems** including:
+
+- Generative AI applications (**LLM, RAG, AI copilots**)
+- Enterprise **Document Intelligence platforms**
+- **AI risk assessment and verification systems**
+- **Computer Vision surveillance systems**
+- **Cloud-native AI microservices platforms**
+
+My focus is **taking AI systems from research → POC → production deployment**.
+
+---
+
+# ⚡ Enterprise LLM Engineering
+
+Over the past **6+ months**, I have actively integrated **Large Language Models into engineering workflows** to accelerate development and AI system prototyping.
+
+### Tools
+
+Claude Code • GitHub Copilot • OpenAI Codex • Groq APIs
+
+### Capabilities
+
+- Advanced **Prompt Engineering**
+- **Context Engineering for LLM systems**
+- Working with **Claude Code Skills, Builders, Plugins and MCP (Model Context Protocol)**
+- AI-assisted **code generation, debugging, refactoring and documentation**
+- Rapid development of **AI microservices and APIs**
+
+### Enterprise Environment
+
+Applied LLM-assisted development within **banking-grade secure environments** operating under strict:
+
+- regulatory compliance
+- security policies
+- enterprise governance
+- controlled infrastructure
+
+This enables **AI-accelerated engineering while maintaining enterprise security standards**.
+
+---
+
+# ☁️ Multi-Cloud & Enterprise Infrastructure Experience
+
+| Capability | Microsoft Azure | AWS | On-Prem / Hybrid |
+|------------|----------------|-----|------------------|
+| AI / ML & GenAI Platforms | ML Studio, OpenAI, AI Foundry | SageMaker, Bedrock | Kubeflow |
+| Container Platforms | AKS, Container Apps | EKS, ECS | Kubernetes |
+| Data Platforms | ADLS, Synapse | S3, Redshift | Hadoop / Spark |
+| Serverless Compute | Azure Functions | Lambda | Internal schedulers |
+| Data Pipelines | Azure Data Factory | Glue | Airflow |
+| Databases | Azure SQL, Cosmos DB | Aurora, DynamoDB | PostgreSQL / MySQL |
+| DevOps | Azure DevOps | CodePipeline | Jenkins |
+
+This enables designing **secure hybrid AI architectures for enterprise environments**.
+
+---
+
+# 🏗 AI Platform & Microservice Architecture
+
+Strong experience designing **microservice-based AI platforms**, including:
+
+- AI model inference APIs
+- distributed ML pipelines
+- event-driven AI systems
+- containerized ML workloads
+- scalable AI microservices
+
+Typical architecture:
+
+Data ingestion → Processing pipelines → Model inference APIs → AI services → Client applications
+
+
+Built using:
+
+FastAPI • Docker • Kubernetes • message queues • cloud orchestration
+
+---
+
+# ⚙️ Key Technologies
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <a href = "https://github.com/mandar196/Hate_Speech_Detection-NLP">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Hate_Speech_Detection-NLP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
+<img src="https://streak-stats.demolab.com/?user=shreyaschim&theme=radical">
 </p>
 
-<p align="center">
-  <a href="https://github.com/mandar196/MedTest">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=MedTest&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-  </p>
+---
 
-<p align="center">
-  <a href="https://github.com/mandar196/Handwritten_Digits_Classifier_CNN">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Handwritten_Digits_Classifier_CNN&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-  </p>
-  
- <p align="center">
-  <a href = "https://github.com/mandar196/Face_Recognition_Attendance_System">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Face_Recognition_Attendance_System&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
+# 🐍 Contribution Snake
 
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <a href = "https://github.com/mandar196/Fake_News_Classifier_NLP">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Fake_News_Classifier_NLP&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href = "https://github.com/mandar196/Employee_Attrition-HR-Analytics">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Employee_Attrition-HR-Analytics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
+# 📚 Education
 
-<p align="center">
-  <a href = "https://github.com/mandar196/Recruitment-prediction-system">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=mandar196&repo=Recruitment-prediction-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
+🎓 **Master's in Computer Engineering**  
+Pune Institute of Computer Technology
 
-# Connect me on:
-LinkedIn: https://www.linkedin.com/in/mandar-kulkarni196
+🎓 **Bachelor's in Information Technology**  
+Sant Gadge Baba Amravati University
 
-Kaggle: https://www.kaggle.com/mandarkulkarnipune
+---
 
-Medium: https://rb.gy/mm6ps8
+# 🤝 Collaboration
 
-## Note: Please do not spam on the above mentioned profiles. -->
+I’m open to collaborating on:
+
+- Generative AI systems
+- enterprise AI platforms
+- LLM applications
+- ML infrastructure
+
+📩 **Email:** shreyas4329ay@gmail.com
+
+---
